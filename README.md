@@ -1,4 +1,4 @@
-# UiPathOnePremise
+# LittleFrog for UiPath One Premise
 Download and open Orchestrator packages from your UiPath One premise solution
 
 This version is for on premise Orchestrator only
